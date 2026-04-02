@@ -50,23 +50,23 @@
 ### Advanced Video
 
 #### Advanced Video
-**Boost Player Contrast:** ???
+- **Boost Player Contrast:** ???
 
 #### Frame Pacing
-**V-Sync:** Disabled
-**NVIDIA G-Sync:** Disabled
-**NVIDIA Reflex Low Latency:** Enabled
-**Maximum FPS In Game:** 999
-**Maximum FPS In Menu:** 999
+- **V-Sync:** Disabled
+- **NVIDIA G-Sync:** Disabled
+- **NVIDIA Reflex Low Latency:** Enabled
+- **Maximum FPS In Game:** 999
+- **Maximum FPS In Menu:** 999
 
 #### Presets
-**Multisampling Anti-Aliasing Mode:** ???
-**Global Shadow Quality:** High
-**Dynamic Shadows:** ???
-**Model/Texture Detail:** ???
-**Texture Filtering Mode:** ???
-**Shader Detail:** ???
-**Particle Detail:** ???
-**Ambient Occlusion:** ???
-**High Dynamic Range:** ???
-**FidelityFX Super Resolution:** ???
+- **Multisampling Anti-Aliasing Mode:** ???
+- **Global Shadow Quality:** High
+- **Dynamic Shadows:** ???
+- **Model/Texture Detail:** ???
+- **Texture Filtering Mode:** ???
+- **Shader Detail:** ???
+- **Particle Detail:** ???
+- **Ambient Occlusion:** ???
+- **High Dynamic Range:** ???
+- **FidelityFX Super Resolution:** ???

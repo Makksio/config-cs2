@@ -41,10 +41,10 @@
 ## Video
 
 ### Video
-**Display mode:** Fullscreen
-**Aspect ratio:** Normal 4:3
-**Resolution:** 1280x960
-**Brightness:** 100%
+- **Display mode:** Fullscreen
+- **Aspect ratio:** Normal 4:3
+- **Resolution:** 1280x960
+- **Brightness:** 100%
 
 ### Advanced Video
 

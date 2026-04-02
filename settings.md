@@ -18,6 +18,15 @@
 
 ## Display
 
+### Adjust desktop size and position
+
+**2. Apply the following settings:**
+    Scaling 
+        Select a scaling mode:
+            [x] Full-screen
+        Perform scalin on: GPU
+        [x] Override the scaling mode set by games and programs
+
 ## Video
 
 ### Adjust video color settings
@@ -39,14 +48,18 @@
 **Brightness:** 100%
 
 ### Advanced Video
+
+#### Advanced Video
 **Boost Player Contrast:** ???
 
+#### Frame Pacing
 **V-Sync:** Disabled
 **NVIDIA G-Sync:** Disabled
 **NVIDIA Reflex Low Latency:** Enabled
 **Maximum FPS In Game:** 999
 **Maximum FPS In Menu:** 999
 
+#### Presets
 **Multisampling Anti-Aliasing Mode:** ???
 **Global Shadow Quality:** High
 **Dynamic Shadows:** ???

@@ -3,9 +3,9 @@
 ## Mouse Properties
 
 ### Pointer Options
-**Motion**
-    - **Select a pointer speed:** 6/11
-    - [ ] **Enhance pointer precision**
+- **Motion**
+  - **Select a pointer speed:** 6/11
+  - [ ] **Enhance pointer precision**
 
 
 
@@ -22,18 +22,17 @@
 
 2. **Apply the following settings:**
    - Scaling
-     - Select a scaling mode:
-       - [x] Full-screen
+     - Select a scaling mode: [x] Full-screen
      - Perform scaling on: GPU
      - [x] Override the scaling mode set by games and programs
 
 ## Video
 
 ### Adjust video color settings
-**2. How do you make color adjustments?**
-[x] With the NVIDIA settings
-    **Advanced**
-        **Dynamic range:** Full (0-255)
+2. **How do you make color adjustments?**
+   - [x] With the NVIDIA settings
+     - **Advanced**
+       - **Dynamic range:** Full (0-255)
 
 
 

@@ -20,12 +20,12 @@
 
 ### Adjust desktop size and position
 
-**2. Apply the following settings:**
-    - Scaling 
-        - Select a scaling mode:
-            - [x] Full-screen
-        - Perform scalin on: GPU
-        - [x] Override the scaling mode set by games and programs
+2. **Apply the following settings:**
+   - Scaling
+     - Select a scaling mode:
+       - [x] Full-screen
+     - Perform scaling on: GPU
+     - [x] Override the scaling mode set by games and programs
 
 ## Video
 

@@ -4,8 +4,8 @@
 
 ### Pointer Options
 **Motion**
-    **Select a pointer speed:** 6/11
-    [ ] **Enhance pointer precision**
+    - **Select a pointer speed:** 6/11
+    - [ ] **Enhance pointer precision**
 
 
 
@@ -14,18 +14,18 @@
 ## 3D Settings
 
 ### Adjust image settings with preview
-[x] **Use my preference emphasising:** Performance
+- [x] **Use my preference emphasising:** Performance
 
 ## Display
 
 ### Adjust desktop size and position
 
 **2. Apply the following settings:**
-    Scaling 
-        Select a scaling mode:
-            [x] Full-screen
-        Perform scalin on: GPU
-        [x] Override the scaling mode set by games and programs
+    - Scaling 
+        - Select a scaling mode:
+            - [x] Full-screen
+        - Perform scalin on: GPU
+        - [x] Override the scaling mode set by games and programs
 
 ## Video
 

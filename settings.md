@@ -4,7 +4,7 @@
 
 ### Pointer Options
 - **Motion**
-  - **Select a pointer speed:** 6/11
+  - **Select a pointer speed:** 5/11
   - [ ] **Enhance pointer precision**
 
 
@@ -49,7 +49,7 @@
 ### Advanced Video
 
 #### Advanced Video
-- **Boost Player Contrast:** ???
+- **Boost Player Contrast:** Enabled
 
 #### Frame Pacing
 - **V-Sync:** Disabled
@@ -59,13 +59,13 @@
 - **Maximum FPS In Menu:** 999
 
 #### Presets
-- **Multisampling Anti-Aliasing Mode:** ???
+- **Multisampling Anti-Aliasing Mode:** 4X MSAA
 - **Global Shadow Quality:** High
-- **Dynamic Shadows:** ???
-- **Model/Texture Detail:** ???
-- **Texture Filtering Mode:** ???
-- **Shader Detail:** ???
-- **Particle Detail:** ???
-- **Ambient Occlusion:** ???
-- **High Dynamic Range:** ???
-- **FidelityFX Super Resolution:** ???
+- **Dynamic Shadows:** All
+- **Model/Texture Detail:** Low
+- **Texture Filtering Mode:** Anisotropic 2X
+- **Shader Detail:** Low
+- **Particle Detail:** Low
+- **Ambient Occlusion:** Medium
+- **High Dynamic Range:** Quality
+- **FidelityFX Super Resolution:** Disabled (Higest Quality)

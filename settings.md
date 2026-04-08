@@ -7,7 +7,15 @@
   - **Select a pointer speed:** 5/11
   - [ ] **Enhance pointer precision**
 
+# Razer Synapse
 
+## Performance
+
+### Sensitivity
+- **DPI:** 800
+
+### Polling rate
+- **Frequency (Hz):** 1000
 
 # NVIDIA Control Panel
 

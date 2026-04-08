@@ -52,7 +52,7 @@
 - **Display mode:** Fullscreen
 - **Aspect ratio:** Normal 4:3
 - **Resolution:** 1280x960
-- **Brightness:** 100%
+- **Brightness:** 93%
 
 ### Advanced Video
 

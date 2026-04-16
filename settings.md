@@ -71,7 +71,7 @@
 - **Global Shadow Quality:** High
 - **Dynamic Shadows:** All
 - **Model/Texture Detail:** Low
-- **Texture Filtering Mode:** Anisotropic 2X
+- **Texture Filtering Mode:** Trilinear
 - **Shader Detail:** Low
 - **Particle Detail:** Low
 - **Ambient Occlusion:** Medium

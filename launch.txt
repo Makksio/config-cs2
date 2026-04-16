@@ -1,1 +1,1 @@
--novid -nojoy -high +mat_queue_mode 2 +cl_forcepreload 1 -console
+-nojoy -high +mat_queue_mode 2 +cl_forcepreload 1 -console

@@ -1,1 +1,1 @@
--nojoy -high +mat_queue_mode 2 +cl_forcepreload 1 -console
+-nojoy -high +mat_queue_mode 2 -fullscreen -refresh 144 -console

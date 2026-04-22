@@ -7,6 +7,8 @@
   - **Select a pointer speed:** 5/11
   - [ ] **Enhance pointer precision**
 
+
+
 # Razer Synapse
 
 ## Performance
@@ -16,6 +18,8 @@
 
 ### Polling rate
 - **Frequency (Hz):** 1000
+
+
 
 # NVIDIA Control Panel
 
@@ -41,6 +45,15 @@
    - [x] With the NVIDIA settings
      - **Advanced**
        - **Dynamic range:** Full (0-255)
+
+
+
+# cs2.exe Properties
+
+## Compatibility
+
+# Settings
+[ ] Disable fullscreen optimizations
 
 
 

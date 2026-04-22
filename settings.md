@@ -53,7 +53,7 @@
 ## Compatibility
 
 # Settings
-[ ] Disable fullscreen optimizations
+- [ ] Disable fullscreen optimizations
 
 
 

@@ -1,1 +1,1 @@
--nojoy -high +mat_queue_mode 2 -fullscreen -refresh 144 -console
+-nojoy -high +mat_queue_mode 2 -fullscreen -w 1280 -h 960 -refresh 144 -console

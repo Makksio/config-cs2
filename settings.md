@@ -52,7 +52,7 @@
 
 ## Compatibility
 
-# Settings
+### Settings
 - [ ] Disable fullscreen optimizations
 
 
